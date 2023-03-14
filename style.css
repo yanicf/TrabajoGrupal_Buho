@@ -1,0 +1,103 @@
+body{
+    background-image: url(fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.img1{
+    border-radius: 20px;
+    margin-left: 800px;
+    margin-top: 280px;
+    position: absolute;
+}
+#principal{
+    font-size: xx-large;
+    text-align: center;
+    margin: auto;
+}
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    } 
+    nav li{
+    display:inline-block;
+    width:10%;
+    padding:5px 10px;
+    background-color: #bb94df;
+    border:1px solid #bb94df;
+    text-align:center;
+    color:#1e1d1f;
+    border-radius: 15px;
+    margin: 15px;
+    margin-left: 30px;
+    width: 130px;
+    }
+    nav li:hover{
+    background-color:#4a494e;
+    border:1px solid #4a494e;
+    color:#000;
+    }
+.arriba{
+    text-align: center;
+}
+#uno{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #8f7d9f;
+    width: 300px;
+    height: 275px;
+    margin: auto;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.tit{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    margin-top: 10px;
+    font-size: medium;
+}
+.lbl{
+    font-size: 15px;
+}
+#dos{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #8f7d9f;
+    width: 300px;
+    height: 275px;
+    margin: auto;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+#tres{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #8f7d9f;
+    width: 300px;
+    height: 275px;
+    margin: auto;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 345px;
+}
+#ventajas{
+    font-size: 15px;
+}
+#desventajas{
+    font-size: 15px;
+}
+#cuatro{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #8f7d9f;
+    width: 300px;
+    height: 275px;
+    margin: auto;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 345px;
+}
